@@ -2,6 +2,39 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
+<<<<<<< HEAD
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #7d848a ;
+}
+
+.container {
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  background-color: #04b804b2 ;
+  text-align: center;
+}
+
+.input-group {
+  margin-bottom: 10px;
+}
+
+input {
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #000000;
+}
+
+button {
+  padding: 8px 16px;
+  border-radius: 5px;
+  border: none;
+  background-color: #1a0af8;
+  color: #fcfcfc;
+=======
   box-sizing: border-box;
 }
 
@@ -47,9 +80,14 @@ button {
   background-color: #09ff00;
   color: rgb(0, 0, 0);
   border-radius: 3px;
+>>>>>>> bfb86bf813359ff5a4e7c15edf5fcebf1b4889a8
   cursor: pointer;
 }
 
 button:hover {
+<<<<<<< HEAD
+  background-color: #000000;
+=======
   background-color: #28ff0c;
+>>>>>>> bfb86bf813359ff5a4e7c15edf5fcebf1b4889a8
 }
